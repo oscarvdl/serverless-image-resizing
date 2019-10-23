@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Serverless image resizing",
   "readme": "Serverless image resizing",
-  "repository": "https://github.com/awslabs/serverless-image-resizing",
+  "repository": "https://github.com/oscarvdl/serverless-image-resizing",
   "license": "Apache-2.0",
   "main": "index.js",
   "devDependencies": {
